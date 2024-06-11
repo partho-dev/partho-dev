@@ -18,21 +18,23 @@
 
 :coral: Being a founder and managing a diverse team, where I had a flat reporting methodology, 
 
-- I believe in keeping myself available and open to hear the team and their ideas to implement into our work to make it a very successful company. 
+:panda_face:I believe in keeping myself available and open to hear the team and their ideas to implement into our work to make it a very successful company. 
 
-- I bootstrapped the company and saw a revenue of half a million dollar.
+🤑 I bootstrapped the company and saw a revenue of half a million dollar.
 
-- Worked with multiple customers from different industry and dedicated more than 8 years for the benefit of others, now we are expanding to other countries like Dubai and Saudi as well.
+:flags: Worked with multiple customers from different industry and dedicated more than 8 years for the benefit of others, now we are expanding to other countries like Dubai and Saudi as well.
 
-- I love teaching, mentoring and keeping myself up to date with latest technologies. I don’t get tired of learning any new skills, when I say learn, I mean learn from fundamentals to advanced and I am currently helping digital product owners build their product, implement & integrate the latest technology to facilitate their client a best product.
+:student: I love teaching, mentoring and keeping myself up to date with latest technologies. I don’t get tired of learning any new skills, when I say learn, I mean learn from fundamentals to advanced. 
 
-- Further I help them adopt native managed cloud technologies and services to reduce the time to market and benefit the scalability.
+:technologist: I am currently helping digital product owners build their product, implement & integrate the latest technology to facilitate their client a best product.
 
-- I also work with many companies and consult them on assessing their current development life cycle and implement automation in place using latest DevOps or DevSecOps. I help clients adopt the modernization by adopting the microservices where its possible and provide the complete solution end to end.
+:heavy_heart_exclamation: Further I help them adopt native managed cloud technologies and services to reduce the time to market and benefit the scalability.
 
-- I would love to hear and learn more about the solutions that can be done in more efficient way.
+:computer: I also work with many companies and consult them on assessing their current development life cycle and implement automation in place using latest DevOps or DevSecOps. I help clients adopt the modernization by adopting the microservices where its possible and provide the complete solution end to end.
 
-- I am a lifetime learner 
+:saluting_face: I would love to hear and learn more about the solutions that can be done in more efficient way.
+
+:man_student: I am a lifetime learner 
 
 
 
