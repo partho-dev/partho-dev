@@ -2,6 +2,8 @@
 
 :timer_clock: With over 15 years into the industry with `proven technical` and `strong eadership qualities`, I have administered data centers, worked with networking(CISCO & Juniper) routers and switches, cloud technologies and found an Infrastructure consultation management and product development company. 
 
+👋 Hi, Myself `Partho` and I feel very proud to present myself to you, who have mentored so many young talents and guided to get the best in their career. 
+
 :boom: I am a `CISCO CCNA` & `CCNP` certified & An early adoption of cloud technologies with vendors like **AWS** & **Azure**.
 
 :green_circle: Worked and Troubleshooted the core ***Linux*** OS like booting issue, Kernel panic error and many low level concepts of Linux during my early career `2009-2010-2011`. 
@@ -11,8 +13,6 @@
 :white_check_mark: Started my cloud journey by the year `2013` with Cloud Migration technologies by not using any cloud native solutions, but using the OS level facilities like scp, rsync, application migration using backup and restore etc 
 
 :arrows_clockwise: Then worked with a cloud migration tool called RiverMeadow. 
-
-👋 Hi, Myself `Partho` and I feel very proud to present myself to you, who have mentored so many young talents and guided to get the best in their career. 
 
 :pray: I have produced more than 50 full time jobs through my consulting and product development company Lia Infraservices since 2016.
 
